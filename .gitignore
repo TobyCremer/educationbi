@@ -1,0 +1,17 @@
+# Power BI temp files
+*.pbix.autosave
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment files
+.env
+
+# Data exports
+*.csv
+*.xlsx
+
+# OS files
+Thumbs.db
